@@ -12,6 +12,9 @@ body {
   font-size: x-large;
 }
 
+.main{
+  color: cadetblue;
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
